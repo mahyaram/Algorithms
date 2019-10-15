@@ -1,0 +1,12 @@
+Grade 1 = Num A
+Grade 2 = Num B
+Grade 3 = Num C
+
+Avg = (Num A + Num B + Num C)/3
+
+If ( Avg >= 60 ){
+  print = " PASS "
+}
+else {
+  print = " FAIL "
+}
