@@ -1,0 +1,9 @@
+integer factorial(integer n) {
+    if (n < 0) {
+        error: "Factorials cannot be defined for negative numbers"
+    }
+    if (n == 0) {
+        return 1;
+    } 
+    return n * factorial(n - 1); 
+}
