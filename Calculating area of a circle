@@ -1,0 +1,7 @@
+var A = radius
+var B = area
+PI = 3.14
+
+B = PI * A * A
+
+Print " B "
