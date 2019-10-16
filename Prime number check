@@ -1,1 +1,7 @@
+A = number A
 
+if ( A < 2 ){
+    print " A is not prime! "
+    Break;
+}   else
+    A += 1
