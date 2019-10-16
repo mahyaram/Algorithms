@@ -1,1 +1,8 @@
+var H = Height
+var B = Base
+var T = Area   
 
+
+T = (H * B)/2
+
+print " T " 
